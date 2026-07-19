@@ -4685,5 +4685,45 @@ input, select, textarea {
 			box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, 0.2);
 			visibility: visible;
 		}
+/* Skills Section */
 
+.skills-section {
+    padding: 4rem 0;
+    text-align: center;
+}
+
+.skills-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.skills-container article {
+    background: rgba(255,255,255,0.05);
+    padding: 2rem;
+    border-radius: 10px;
+}
+
+.skills-container h3 {
+    margin-bottom: 1rem;
+}
+
+
+@media screen and (max-width: 980px) {
+
+    .skills-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+}
+
+
+@media screen and (max-width: 736px) {
+
+    .skills-container {
+        grid-template-columns: 1fr;
+    }
+
+}
 	}
