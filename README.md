@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Agatha Onwudiwe
 
+![GitHub Banner](images/github-banner.png)
+
 ## Data Scientist | Data Analyst | Business Intelligence
 
 Welcome to my portfolio repository.
