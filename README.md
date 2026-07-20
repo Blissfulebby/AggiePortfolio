@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Agatha Onwudiwe
+ <p align="center">
+  <img src="images/github-banner.png" alt="Agatha Onwudiwe GitHub Banner" width="100%">
+</p>
 
-![GitHub Banner](images/github-banner.png)
+# 👋 Hi, I'm Agatha Onwudiwe
 
 ## Data Scientist | Data Analyst | Business Intelligence
 
