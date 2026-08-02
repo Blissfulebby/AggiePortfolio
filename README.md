@@ -122,7 +122,7 @@ Power BI • DAX • Data Visualization
 
 ---
 
-## 📬 Connect With Me
+##  Connect With Me
 
 💼 LinkedIn:  
 https://www.linkedin.com/in/agatha-onwudiwe-86b87215b
