@@ -16,7 +16,7 @@ I am a Data Scientist and Data Analyst passionate about transforming data into m
 
 ---
 
-## 🌐 Portfolio Website
+##  Portfolio Website
 
 Visit my live portfolio:
 
@@ -24,7 +24,7 @@ Visit my live portfolio:
 
 ---
 
-## 📌 About This Project
+##  About This Project
 
 This repository contains my personal portfolio website showcasing my professional journey, technical skills, analytics projects, certifications, and experience.
 
@@ -38,7 +38,7 @@ The portfolio highlights my work in:
 
 ---
 
-## ✨ Features
+##  Features
 
 ✅ Professional portfolio homepage  
 ✅ About Me section  
@@ -51,7 +51,7 @@ The portfolio highlights my work in:
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 ### Frontend
 - HTML5
@@ -75,9 +75,9 @@ The portfolio highlights my work in:
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-### 🚗 Used Car Price Prediction
+###  Used Car Price Prediction
 
 Machine learning project predicting vehicle prices using regression models.
 
@@ -85,7 +85,7 @@ Machine learning project predicting vehicle prices using regression models.
 Python • Pandas • Scikit-learn • Streamlit • AWS
 
 
-### 🐧 Palmer Penguins Exploratory Data Analysis
+###  Palmer Penguins Exploratory Data Analysis
 
 Exploratory data analysis project exploring patterns and relationships within the Palmer Penguins dataset.
 
@@ -93,7 +93,7 @@ Exploratory data analysis project exploring patterns and relationships within th
 Python • Pandas • NumPy • Matplotlib • Seaborn
 
 
-### 🦠 Stockholm Cholera Outbreak Analysis
+###  Stockholm Cholera Outbreak Analysis
 
 Power BI dashboard analyzing historical mortality records to identify demographic trends and outbreak patterns.
 
@@ -101,7 +101,7 @@ Power BI dashboard analyzing historical mortality records to identify demographi
 Power BI • Power Query • DAX • Data Modeling
 
 
-### 🚕 NYC Taxi Trip Analysis
+###  NYC Taxi Trip Analysis
 
 Power BI dashboard analyzing millions of taxi trips to discover transportation trends and business insights.
 
