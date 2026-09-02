@@ -77,6 +77,16 @@ The portfolio highlights my work in:
 
 ##  Featured Projects
 
+### Titanic Survival Prediction
+
+Machine learning web application that predicts whether a Titanic passenger survived based on sex and fare.
+
+**Tools:**
+Python • Pandas • Scikit-learn • Joblib • Flask • HTML • CSS • GitHub
+
+**Project:** https://github.com/Blissfulebby/titanic_model
+
+
 ###  Used Car Price Prediction
 
 Machine learning project predicting vehicle prices using regression models.
