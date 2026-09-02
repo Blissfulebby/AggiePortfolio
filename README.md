@@ -68,12 +68,12 @@ The portfolio highlights my work in:
 - NumPy
 - Scikit-learn
 
+---
+
 ### Tools
 - Git & GitHub
 - VS Code
 - AWS
-
----
 
 ##  Featured Projects
 
