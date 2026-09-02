@@ -90,7 +90,6 @@ Python • Pandas • Scikit-learn • Joblib • Flask • HTML • CSS • Git
 ###  Used Car Price Prediction
 End-to-End Used Car Price Prediction
 Machine learning project predicting vehicle prices using regression models.
-An end-to-end machine learning application that predicts the selling price of used vehicles using Random Forest Regression, deployed with Streamlit and hosted on AWS EC2 during development.
 
 🔗 Repository:
 https://github.com/Blissfulebby/end-to-end-car-price-prediction-aws
